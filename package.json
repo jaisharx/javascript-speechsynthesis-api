@@ -1,0 +1,19 @@
+{
+  "name": "javascript-speechsynthesis-api",
+  "version": "1.0.0",
+  "description": "simple showcase of javascript speechsynthesis api",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaisharx/javascript-speechsynthesis-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaisharx/javascript-speechsynthesis-api/issues"
+  },
+  "homepage": "https://github.com/jaisharx/javascript-speechsynthesis-api#readme"
+}
