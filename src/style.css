@@ -44,6 +44,22 @@ h1 {
     margin-bottom: 20px;
 }
 
+.text-box-container {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.text-box-container.show {
+    display: block;
+}
+
 .text-box {
     width: 70%;
     position: absolute;
@@ -56,6 +72,10 @@ h1 {
     transform: translate(-50%, -800px);
 
     transition: all 1s ease-in-out;
+}
+
+.text-box.show {
+    transform: translate(-50%, 0);
 }
 
 .text-box select {

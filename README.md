@@ -1,7 +1,7 @@
 # Javascript Speechsynthesis API
 simple showcase of javascript speechsynthesis api
 
-<!-- <img src="preview.png"> -->
+<img src="preview.png">
 
 ## Usage
 
